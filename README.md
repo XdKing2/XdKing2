@@ -41,7 +41,22 @@ Currently, I'm enhancing my **MALVIN-XD** project—stay tuned for updates!
 ---
 
 ## 🚀 Top Contributions  
-![](https://github-contributor-stats.vercel.app/api?username=XdKing2&limit=5&theme=black&combine_all_yearly_contributions=true)  
+
+<p align="center">
+  <a href="https://github.com/XdKing2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XdKing2&theme=radical">
+  </a>
+  <a href="https://github.com/XdKing2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XdKing2&theme=radical">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/XdKing2">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XdKing2&theme=radical">
+  </a>
+</p>
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XdKing2&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
